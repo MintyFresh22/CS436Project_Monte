@@ -12,7 +12,7 @@ $git clone https://github.com/MintyFresh22/CS436Project_Monte
 
 Cloning the repository might take some time because of its size
 
-## Usage
+## Setup
 
 Once the repository has been cloned it should have the following file structure:\
 CS436Project_Monte/:
@@ -36,6 +36,8 @@ variables.data-00000-of-00001  variables.index
 \
 navigate to the Project directory and open the Project.ipynb file in jupyter notebook:\
 $jupyter notebook
+
+## Notebook
 
 Do NOT run all cells, run only cells under sections labeled "Run all cells in this section". Make sure to run cells at the top of the file that contain the StoryGenerator class, and the get_sent_embedding, get_tokenized_sent, and get_word_embedding functions. 
 
