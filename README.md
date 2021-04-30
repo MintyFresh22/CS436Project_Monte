@@ -32,9 +32,9 @@ CS436Project_Monte/Project/cohesion_model/assets:
 
 CS436Project_Monte/Project/cohesion_model/variables:
 variables.data-00000-of-00001  variables.index
-
-
-navigate to the Project directory and open the Project.ipynb file in jupyter notebook:
+\
+\
+navigate to the Project directory and open the Project.ipynb file in jupyter notebook:\
 $jupyter notebook
 
 Do NOT run all cells, run only cells under sections labeled "Run all cells in this section". Make sure to run cells at the top of the file that contain the StoryGenerator class, and the get_sent_embedding, get_tokenized_sent, and get_word_embedding functions. 
