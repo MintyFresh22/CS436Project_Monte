@@ -52,6 +52,6 @@ Next, scroll down in the file running cells in sections labeled "Run all cells i
 
 After all the prerequisite cells have been run scroll to the bottom of the file labeled "Run these cells to generate and evaluate a story". Run these cells in the order they appear in the file. A prompt will appear where you may enter the first few sentences of the story to be generated, entering between 1-10 sentences produces reliable results. After you have entered all of your sentences, you will be prompted to select how many sentences should be added to your story by the story generator. It is recommended to select a number between 1-20 sentences but be aware that the story generator may take anywhere from 5-15 minutes to complete the story depending on how many sentences are generated.
 
-Once the story has been generated, the story will be printed to the screen. To measure the cohesiveness of the generated story run the next cell. Cohesiveness is scored from 0 to 1 where 1 is the most cohesive. 
+Once the story has been generated, the story will be printed to the screen. To measure the cohesiveness of the generated story run the next cell. Cohesiveness is scored from 0 to 1 where 1 is the most cohesive. You may recieve a warning regarding input shapes ignore this warning for small stories (most scenarios), but for large stories (not applicable to this project) set the block_len to 112 (default).
 
 To generate a new story rerun the first cell under the section labeled "Run these cells to generate and evaluate a story"
