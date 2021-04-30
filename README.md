@@ -33,13 +33,13 @@ CS436Project_Monte/Project/cohesion_model/assets:
 CS436Project_Monte/Project/cohesion_model/variables:
 variables.data-00000-of-00001  variables.index
 
-This project requires the following packages with python 3.7.10:
-nltk                    3.5
-pickle-mixin            1.0.2
-tensorflow              2.4.1
-torch                   1.8.1
-tqdm                    4.60.0
-transformers            4.2.2
+This project requires the following packages with python 3.7.10: \
+nltk                    3.5 \
+pickle-mixin            1.0.2 \
+tensorflow              2.4.1 \
+torch                   1.8.1 \
+tqdm                    4.60.0 \
+transformers            4.2.2 \
 
 ## Notebook
 
